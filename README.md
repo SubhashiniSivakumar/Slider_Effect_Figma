@@ -28,7 +28,7 @@ Character Slides:
 The Push animation was used to create a seamless movement between character cards, simulating a slider or carousel effect commonly seen in UI designs.
 
 Click below to interact with the design directly in Figma:
-[View prototype](https://www.figma.com/design/eowxxpzT67X0VsK1e0UySX/Cartoon-Slider-Effect?node-id=0-1&t=UjYw7CrPB7DUKW0p-1)
+[View prototype](https://www.figma.com/proto/eowxxpzT67X0VsK1e0UySX/Cartoon-Slider-Effect?page-id=0%3A1&node-id=6-338&p=f&viewport=144%2C423%2C0.21&t=aSaYZ5htvL4OYaOK-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2)
 <p float="left">
 <img src="Final Page.jpg" width="500">
 <img src="Home.png" width="500">
