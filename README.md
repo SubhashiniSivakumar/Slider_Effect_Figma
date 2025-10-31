@@ -16,3 +16,13 @@ Character Slides:
 🩵 Candy — Diana
 🔵 Funky — Jeremy
 🟣 Just — Hanna
+
+## ⚙️ Animation Details
+
+- Prototype Animation: Slider → Push
+- Easing Type: Ease-In
+- Duration: 1200 ms
+- Frames: 6
+- Effect: Smooth horizontal sliding between cards
+
+The Push animation was used to create a seamless movement between character cards, simulating a slider or carousel effect commonly seen in UI designs.
