@@ -32,10 +32,10 @@ Click below to interact with the design directly in Figma:
 <p float="left">
 <img src="Final Page.jpg" width="500">
 <img src="Home.png" width="500">
-<img src="Slider 1.png" width="500">
-<img src="Slider 2.png" width="500">
-<img src="Slider 3.png" width="500">
-<img src="Slider 4.png" width="500">
-<img src="Slider 5.png" width="500">
-<img src="Slider 6.png" width="500">
+<img src="Slider 1.png" width="200">
+<img src="Slider 2.png" width="200">
+<img src="Slider 3.png" width="200">
+<img src="Slider 4.png" width="200">
+<img src="Slider 5.png" width="200">
+<img src="Slider 6.png" width="200">
 </p>
